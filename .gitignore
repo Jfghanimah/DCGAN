@@ -1,2 +1,4 @@
 venv/
 .vscode/
+images/
+training_checkpoints/
