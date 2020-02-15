@@ -11,3 +11,5 @@ During training, the generator progressively becomes better at creating
 images that look real, while the discriminator becomes better at telling
 them apart. The process reaches equilibrium when the discriminator
 can no longer distinguish real images from fakes.
+
+![](dcgan.gif)
